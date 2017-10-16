@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="sturts2_02_作业_new:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/sturts2_02__new_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="sturts2_02_作业_new/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="sturts2_02_作业_new" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="lib (3)" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
