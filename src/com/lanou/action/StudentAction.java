@@ -21,7 +21,7 @@ public class StudentAction extends ActionSupport {
 
    private StudentService service = new StudentServiceImpl();
 
-    private Map<String,Student> map = new HashMap<>();// 接收 JSP 页面的 map
+    private Map<String,Student> map = new HashMap<>();//接收 JSP 页面的 map
     private List<Student> list = new ArrayList<>();
 
 
